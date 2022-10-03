@@ -1,4 +1,4 @@
-// Arduino pin numbers
+// Fist Set Arduino pin numbers
 const int DO_pin = 2;
 const int AO_pin = 0;
 int sound;
